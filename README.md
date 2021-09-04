@@ -1,1 +1,1 @@
-{"open": 0, "url": "https:\/\/victoria-isp.com"}
+{"open": 1, "url": "https:\/\/victoria-isp.com"}
